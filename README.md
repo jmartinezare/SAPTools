@@ -1,7 +1,7 @@
 # SAP Tools
 Tools Class to help in development SAP addons, through the following functions:
 
-## Convertion type values:
+## Type Conversion:
 - ToDecimal
 - ToInteger
 - DecToStr
